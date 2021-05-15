@@ -1,0 +1,13 @@
+---
+layout: minify
+---
+{
+	"name": "Kaboom",
+	"icons": [
+		{
+			"src": "/web-manifest-icon.png",
+			"sizes": "any",
+			"type": "image/png"
+		}
+	]
+}
